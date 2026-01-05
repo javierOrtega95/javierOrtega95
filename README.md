@@ -1,27 +1,22 @@
-## Hi there 👋 my name is Javier.
+# 👋 Hi, I'm Javier Ortega
 
-### Full stack JavaScript developer.
+### Full Stack JavaScript Developer | +5 years of experience
 
---------------------------------
+📍 Based in Huelva, Spain | 💼 Specialized in React, TypeScript & Node.js
 
-* 🌍  I'm based in Huelva
-* 🧠  I'm learning Next.js
-* 📫  You can contact me at [javierortegaweb@gmail.com](mailto:javierortegaweb@gmail.com)
+## 🧑🏻‍💻 About me
 
-### Hightlights
+Frontend-focused Full Stack Developer specializing in React and TypeScript. With 5+ years of experience, I build scalable web applications and enjoy exploring new technologies. Currently diving deeper into modern JavaScript APIs and best practices.
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-</p>
+📫 You can contact me at [javierortegaweb@gmail.com](mailto:javierortegaweb@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/javierortega95/).
 
-### Socials
+## 💻 Tech stack
 
-<p align="left"> <a href="https://www.github.com/javierOrtega95" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/javierortega95" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+<img src="https://skillicons.dev/icons?i=js,ts,react,tailwind,nodejs,express,vitest,git" />
 
-### My GitHub Stats
+## 📊 GitHub stats
 
-<a href="http://www.github.com/javierOrtega95"><img src="https://github-readme-streak-stats.herokuapp.com/?user=javierOrtega95&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/javierOrtega95" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=javierOrtega95&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<div align="center">
+  <img height="180em" src="https://github-readme-streak-stats-bay-theta.vercel.app?user=javierOrtega95&&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"/>
+  <img height="180em" src="https://github-readme-stats-gold-five-67.vercel.app/api/top-langs/?username=javierOrtega95&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&v=1"/>
+</div>
