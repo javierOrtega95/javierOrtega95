@@ -1,12 +1,12 @@
 # 👋 Hi, I'm Javier Ortega
 
-### Full Stack JavaScript Developer | +5 years of experience
+### Full Stack JavaScript Developer | +6 years of experience
 
 📍 Based in Huelva, Spain | 💼 Specialized in React, TypeScript & Node.js
 
 ## 🧑🏻‍💻 About me
 
-Frontend-focused Full Stack Developer specializing in React and TypeScript. With 5+ years of experience, I build scalable web applications and enjoy exploring new technologies. Currently diving deeper into modern JavaScript APIs and best practices.
+Frontend-focused Full Stack Developer specializing in React and TypeScript. I build scalable web applications and enjoy exploring new technologies. Currently diving deeper into modern JavaScript APIs and best practices.
 
 📫 You can contact me at [javierortegaweb@gmail.com](mailto:javierortegaweb@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/javierortega95/).
 
